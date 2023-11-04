@@ -1,0 +1,84 @@
+{
+    "bookmarks": [
+        {
+            "category": "Google",
+            "bookmarks": [
+                { "label": "Youtube",              "url": "https://www.youtube.com/" },
+                { "label": "Drive",             "url": "https://drive.google.com/drive/u/0/my-drive" },
+                { "label": "G-Mail",             "url": "https://mail.google.com/mail/u/0/#inbox" },
+                { "label": "Crypto Mail",                "url": "https://cryptogmail.com/" },
+                { "label": "Twitter",               "url": "https://www.twitter.com" }
+            ]
+        },
+        {
+            "category": "Coding",
+            "bookmarks": [
+                { "label": "Problems",              "url": "https://leetcode.com/problemset/all/" },
+                { "label": "Contest",             "url": "https://leetcode.com/contest/" },
+                { "label": "CodeForces",             "url": "https://codeforces.com/contests" },
+                { "label": "Geeks For Geeks",                "url": "https://practice.geeksforgeeks.org/events/rec/gfg-weekly-coding-contest" },
+                { "label": "Code Studio",               "url": "https://www.codingninjas.com/studio/contests" },
+                { "label": "Striver",               "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/" },
+                { "label": "Mega",               "url": "https://mega.nz/fm/Ju4yjT7K" },
+                { "label": "DSA Tree",               "url": "https://whimsical.com/dsa-roadmap-codeandebug-2ERY7B6qco2zg5LdawHsLE" }
+            ]
+        },
+        {
+            "category": "Entertainment",
+            "bookmarks": [
+                { "label": "Mkv Cinema",              "url": "https://mkvcinemas.day/" },
+                { "label": "Ola Movies",             "url": "https://olamovies.tokyo/" },
+                { "label": "Vega Movies",             "url": "https://vegamovies.green/" },
+                { "label": "Katmovie hd",                "url": "https://katmoviehd.dev/tag/hd/" }
+            ]
+        },
+        {
+            "category": "Social Media",
+            "bookmarks": [
+                { "label": "Reddit",                "url": "https://www.reddit.com" },
+                { "label": "Instagram",             "url": "https://www.instagram.com" },
+                { "label": "Facebook",              "url": "https://www.facebook.com" },
+                { "label": "Messenger",             "url": "https://www.messenger.com" },
+                { "label": "Twitter",               "url": "https://www.twitter.com" }
+            ]
+        }
+    ],
+
+    "bookmarkOptions": {
+        "alwaysOpenInNewTab": true,
+        "useFaviconKit": false
+    },
+
+    "steamGames": [
+        { "id": 730,          "title": "Counter-Strike: Global Offensive",  "logoHash": "d1159d1a4d0e18da4d74f85dbb4934d7a92ace2b" }
+    ],
+
+    "sidebar": {
+        "idleOpacity": 0.06
+    },
+
+    "voiceReg": {
+        "enabled": true,
+        "language": "en-US"
+    },
+
+    "glass": {
+        "background": "rgba(47, 43, 48, 0.568)",
+        "backgroundHover": "rgba(47, 43, 48, 0.568)",
+        "editorBackground": "rgba(0,0,0, 0.868)",
+        "blur": 12
+    },
+
+    "background": {
+        "url": "https://wallpaperaccess.com/full/7285.jpg",
+        "snow": {
+            "enabled": false,
+            "count": 200
+        },
+        "mist": {
+            "enabled": false,
+            "opacity": 5
+        },
+        "css": "filter: blur(0px) saturate(150%); transform: scale(1.1); opacity: 1"
+    }
+}
